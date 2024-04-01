@@ -22,6 +22,12 @@ git clone git@github.com:jimenezraul/How-to-Create-a-Simple-Python-Flask-API.git
 
 or download the zip file.
 
+## Change directory
+
+```bash
+cd How-to-Create-a-Simple-Python-Flask-API
+```
+
 ## Create a virtual environment
 
 ```bash
